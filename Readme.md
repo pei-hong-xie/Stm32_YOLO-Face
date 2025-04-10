@@ -20,3 +20,4 @@
 
 神经网络推理：
 通过 STM32CubeAI 生成的 C 模型，部署 YOLO 神经网络
+>相关网络模型可以在 https://github.com/imuncle/yoloface-50k 下载
